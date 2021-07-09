@@ -1,0 +1,11 @@
+    {
+      "type": "Feature",
+      "properties": {"grid": "V 83400 93800"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.702644,
+          52.085442
+        ]
+      }
+    }
